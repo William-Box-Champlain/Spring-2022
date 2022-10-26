@@ -1,0 +1,17 @@
+score Score actuel: 
+time Temps ecoule: 
+fps Frequence d'images: 
+start Demarrer
+quit Arreter
+settings Reglages
+save Sauver
+load Charge
+e Facile
+m Moyen
+h Dur
+eng Remplacer par Anglais
+spa Remplacer par Espagnol
+fre Remplacer par Francais
+aur Aurebesh
+death Jeu terminé! Appuyez sur Échap pour quitter, Entrée pour redémarrer
+pause Appuyez sur ESPACE pour commencer

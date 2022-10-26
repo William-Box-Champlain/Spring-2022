@@ -1,0 +1,17 @@
+score Puntuacion actual: 
+time Tiempo transcurrido: 
+fps Cuadros por segundo:
+start Comienzo
+quit Deja
+settings Ajustes
+save Guardar
+load Carga
+e Facil
+m Medio
+h Dificil
+eng Cambiar a Ingles
+spa Cambiar a Espanol
+fre Cambiar a Frances
+aur Aurebesh
+death ¡Juego terminado! Presiona Esc para salir, Ingresa para reiniciar
+pause Presiona ESPACIO para comenzar

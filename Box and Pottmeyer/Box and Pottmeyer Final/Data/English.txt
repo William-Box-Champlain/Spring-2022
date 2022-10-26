@@ -1,0 +1,17 @@
+score Current Score: 
+time Time Elapsed: 
+fps Frame Rate: 
+start Start
+quit Quit
+settings Settings
+save Save
+load Load
+e Easy
+m Medium
+h Hard
+eng Change to English
+spa Change to Spanish
+fre Change to French
+aur Aurebesh
+death Game Over! Press Escape to exit, Enter to restart
+pause Press SPACE to start

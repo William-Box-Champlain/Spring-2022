@@ -1,0 +1,19 @@
+levelNum 0
+pickUps
+foodValue 1
+targetScore 2
+foodChance 20
+powerUpChance 15
+powerDownChance 15
+foodPos 280.000000 200.000000
+pwrUpPos 120.000000 80.000000
+pwrDownPos 240.000000 480.000000
+endOfPickUps
+files
+endOfFiles
+snake
+score 0
+snakeSpeed 350
+snakeLength 1
+snakePos 400.000000 120.000000
+endOfSnake

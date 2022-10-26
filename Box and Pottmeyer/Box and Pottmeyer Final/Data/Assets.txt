@@ -1,0 +1,34 @@
+files
+player SnakeHead.bmp
+snakeEnd SnakeTail.bmp
+food Food2.bmp
+wall Wall.bmp
+pwr Pwr2.bmp
+test test.bmp
+black BlackScreen.bmp
+background BackGround.bmp
+start Start_Button.bmp
+exit Exit_Button.bmp
+save Save_Button.bmp
+load Load_Button.bmp
+language Language_Button.bmp
+ghost SnakeTail.bmp
+endOfFiles
+
+sounds
+button Menu_select.wav
+food Pellet.wav
+death Explosion.wav
+pwr Powerup.wav
+endOfSounds
+
+deanFiles
+woods Woods.png
+smurf smurf_sprites.png
+dean dean_sprites.png
+endOfDeanFiles
+
+fonts
+cour cour.ttf
+aure Aurebesh.ttf
+endOfFonts
